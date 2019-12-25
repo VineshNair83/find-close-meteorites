@@ -6,4 +6,9 @@ Use python and NASA data to find meteorites close to me
 
 This project requires Python 3 and the request package
 
-`python3 find_meteors.py`
+First, Install pipenv. Then:
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+```
